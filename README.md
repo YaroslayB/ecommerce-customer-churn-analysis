@@ -66,19 +66,14 @@ Modelo relacional normalizado en MySQL con 4 tablas: `dim_clientes`, `dim_produc
 - **MySQL Workbench** — limpieza, estructuración y análisis de datos
 - **Power BI** — visualización y tablero de control ejecutivo
 
-## Estructura del repositorio
+## 📁 Estructura del repositorio
+
 ├── sql/
-
-│   ├── 01_exploracion.sql        # Análisis exploratorio inicial (calidad de datos)
-
-│   ├── 02_limpieza_modelo.sql    # Creación del modelo relacional en MySQL
-
-│   └── 03_analisis.sql           # 5 análisis de negocio con hallazgos
-
+│   ├── Exploratorio.sql       (Análisis exploratorio inicial - calidad de datos)
+│   ├── DataClean.sql          (Creación del modelo relacional en MySQL)
+│   └── Analisis.sql           (5 análisis de negocio con hallazgos)
 ├── dashboard/
-
-│   ├── dashboard.pdf             # dashboard/dashboard.pdf 
-
+│   └── dashboard.pdf           (Dashboard completo de Power BI - 4 páginas)
 └── README.md
 
 ## Alcance
