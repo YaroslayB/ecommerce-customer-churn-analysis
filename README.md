@@ -75,7 +75,9 @@ Modelo relacional normalizado en MySQL con 4 tablas: `dim_clientes`, `dim_produc
 - **data2.csv** — Dataset original (Kaggle)
 - **ProyectoPowerBI PDF.pdf** — Dashboard completo de Power BI (4 páginas)
 - **README.md**
+
 [Ver dashboard completo (PDF)](ProyectoPowerBI%20PDF.pdf)
+
 ## Alcance
 
 **Incluye:** análisis exploratorio completo, base de datos limpia con modelo relacional, clasificación de clientes por riesgo, análisis de patrones de abandono, segmentación de valor, dashboard interactivo y recomendaciones con impacto estimado.
